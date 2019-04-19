@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="base_poster_url">https://image.tmdb.org/t/p/w370_and_h556_bestv2</string>
+    <string name="base_backdrop_url">https://image.tmdb.org/t/p/w1400_and_h450_face</string>
+</resources>
